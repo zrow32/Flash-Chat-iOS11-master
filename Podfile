@@ -13,6 +13,11 @@ pod 'Firebase/Database'
 pod 'SVProgressHUD'
 pod 'ChameleonFramework'
 
+pod 'FBSDKLoginKit'
+pod 'FacebookCore'
+pod 'FacebookLogin'
+
+
 end
 
 post_install do |installer|
